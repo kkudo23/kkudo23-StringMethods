@@ -37,6 +37,7 @@ public class SimpleStringMethods {
      */
     public int getIndexGivenCharacter(String s, char c){
         return s.indexOf(c);
+        
     }
 
 }
